@@ -14,5 +14,46 @@
     <?php
         include_once("nav.php");
     ?>
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0" nonce="IomEbWpV"></script>
+    <main>
+    <div class="container-fluid">
+		<div class="row justify-content-center">
+			<div class="col">
+                <div class="card text-center mx-auto">
+                    <div class="card-header">
+                        <h4>Hours</h4>
+                    </div>
+                    <div class="card-body">
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-5">
+                <div class="card text-center mx-auto">
+                    <div class="card-header">
+                        <h4>Link Us On Facebook</h4>
+                    </div>
+                    <div class="card-body fb-page" data-href="https://www.facebook.com/shawano.sports.park/" data-tabs="timeline" data-width="500" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
+                        <blockquote cite="https://www.facebook.com/shawano.sports.park/" class="fb-xfbml-parse-ignore">
+                        <a href="https://www.facebook.com/shawano.sports.park/">Shawano Sports Park</a>
+                        </blockquote>
+                    </div>
+                </div>
+            </div>  
+            <div class="col">
+                <div class="card text-center mx-auto">
+                    <div class="card-header">
+                        <h4>Hours</h4>
+                    </div>
+                    <div class="card-body">
+
+                    </div>
+                </div>
+            </div>  
+        </div>
+    </div>
+
+    </main>
 </body>
 </html>
