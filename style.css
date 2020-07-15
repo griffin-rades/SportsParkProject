@@ -5,15 +5,7 @@ body{
     padding-left: 0px;
     padding-right: 0px;
 }
-#Hours{
-    list-style-type: none;
-    padding-left: 0px;
-}
-#locate{
-    list-style-type: none;
-    padding-left: 0px;
-}
-#rules{
+ul{
     list-style-type: none;
     padding-left: 0px;
 }

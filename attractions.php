@@ -30,6 +30,13 @@
                 <li>No bumpping</li>
                 <li>Please follow the attendents instructions</li>
               </ul>
+              <h5 class="text-success">Pricing</h5>
+              <ul id="pricesKarts">
+                <li>1 for $5</li>
+                <li>4 for $18</li>
+                <li>10 for $40</li>
+                <li>1 ticket per car per race</li>
+              </ul>
               <img src="images/IMG_2125.JPG" class="img-thumbnail">
             </div>
           </div>
@@ -40,6 +47,18 @@
                 <h4>Mini Golf</h4>
               </div>
               <div class="card-body">
+                <p>Our signature 18 hole Mini Golf course features water traps, rock traps, and challenging hole design. There are lights for at night and music to sign along to as you play. We have putters short and tall for children and adults.</p>
+                <h5 class="text-danger">RULES</h5>
+                <ul>
+                  <li>Rules are outlined in our score card</li>
+                </ul>
+                <h5 class="text-success">Pricing</h5>
+                <ul>
+                  <li>Toddler: Free</li>
+                  <li>12&Under: $5</li>
+                  <li>Adult: $7</li>
+                  <li>Senior: $5</li>
+                </ul>
                 <img src="images/IMG_1338.JPG" class="img-thumbnail">
               </div>
           </div>
@@ -50,6 +69,21 @@
               <h4>Batting Cages</h4>
             </div>
             <div class="card-body">
+              <p>Our 5 stall Batting Cages feature baseball and softball pitches ranging in speed from slow to fast. Bats and helmets are provided but your own equipment may also be used.</p>
+              <h5 class="text-danger">RULES</h5>
+              <ul>
+                <li>Helmets must be worn at all times</li>
+                <li>One person in a cage at a time</li>
+                <li>Stay behind the red line</li>
+                <li>Ask attendent any questions before entering</li>
+              </ul>
+              <h5 class="text-success">Pricing</h5>
+              <ul>
+                <li>1 for $1.25</li>
+                <li>4 for $5</li>
+                <li>18 for $20</li>
+                <li>Each token gives 15 pitches</li>
+              </ul>
               <img src="images/IMG_1337.JPG" class="img-thumbnail">
             </div>
           </div>
