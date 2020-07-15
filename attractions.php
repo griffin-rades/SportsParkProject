@@ -23,12 +23,12 @@
               <h4>GoKarts</h4>
             </div>
             <div class="card-body">
-              <p>Our GoKart track features 7 single cars and 3 double cars each with its own local sponsor. Races last 5 minuets and are sure to be a blast!</p>
+              <p>Our GoKart track features 7 single cars and 3 double cars each with its own local sponsor. Races last 5 minutes and are sure to be a blast!</p>
               <h5 class="text-danger">RULES</h5>
               <ul id="rules">
                 <li>Must be 54" tall to drive</li>
                 <li>No bumpping</li>
-                <li>Please follow the attendents instructions</li>
+                <li>Follow the attendents instructions</li>
               </ul>
               <h5 class="text-success">Pricing</h5>
               <ul id="pricesKarts">
