@@ -14,7 +14,7 @@
             <a class="nav-link" href="attractions.php">Attractions</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="pricing.php">Pricing</a>
+            <a class="nav-link" href="groups.php">Groups</a>
         </li>
         </ul>
     </div>

@@ -13,7 +13,15 @@ body{
     list-style-type: none;
     padding-left: 0px;
 }
+#rules{
+    list-style-type: none;
+    padding-left: 0px;
+}
 .row{
     padding-top: 10px;
+}
+.img-thumbnail{
+    border: none;
+    border-radius: 10px;
 }
 

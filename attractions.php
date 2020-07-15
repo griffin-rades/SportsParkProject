@@ -23,6 +23,13 @@
               <h4>GoKarts</h4>
             </div>
             <div class="card-body">
+              <p>Our GoKart track features 7 single cars and 3 double cars each with its own local sponsor. Races last 5 minuets and are sure to be a blast!</p>
+              <h5 class="text-danger">RULES</h5>
+              <ul id="rules">
+                <li>Must be 54" tall to drive</li>
+                <li>No bumpping</li>
+                <li>Please follow the attendents instructions</li>
+              </ul>
               <img src="images/IMG_2125.JPG" class="img-thumbnail">
             </div>
           </div>
@@ -33,7 +40,7 @@
                 <h4>Mini Golf</h4>
               </div>
               <div class="card-body">
-                
+                <img src="images/IMG_1338.JPG" class="img-thumbnail">
               </div>
           </div>
         </div>
@@ -43,7 +50,7 @@
               <h4>Batting Cages</h4>
             </div>
             <div class="card-body">
-
+              <img src="images/IMG_1337.JPG" class="img-thumbnail">
             </div>
           </div>
         </div>
