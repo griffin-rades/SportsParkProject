@@ -19,41 +19,51 @@
     <main>
     <div class="container-fluid">
 		<div class="row justify-content-center">
-			<div class="col">
+			<div class="col-lg-3">
                 <div class="card text-center mx-auto">
                     <div class="card-header">
                         <h4>Hours</h4>
                     </div>
                     <div class="card-body">
-
+                    <ul id="Hours">
+                            <li>Sunday: 10am - 10pm</li>
+                            <li>Monday: 10am - 10pm</li>
+                            <li>Tuesday: 10am - 10pm</li>
+                            <li>Wednesday: 10am - 10pm</li>
+                            <li>Thursday: 10am - 10pm</li>
+                            <li>Friday: 10am - 10pm</li>
+                            <li>Saturday: 10am - 10pm</li>
+                        </ul>
                     </div>
                 </div>
             </div>
-            <div class="col-5">
+            <div class="col-lg-6">
                 <div class="card text-center mx-auto">
                     <div class="card-header">
-                        <h4>Link Us On Facebook</h4>
+                        <h4>Like Us On Facebook</h4>
                     </div>
-                    <div class="card-body fb-page" data-href="https://www.facebook.com/shawano.sports.park/" data-tabs="timeline" data-width="500" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
+                    <div id="fb" class="card-body fb-page" data-href="https://www.facebook.com/shawano.sports.park/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
                         <blockquote cite="https://www.facebook.com/shawano.sports.park/" class="fb-xfbml-parse-ignore">
                         <a href="https://www.facebook.com/shawano.sports.park/">Shawano Sports Park</a>
                         </blockquote>
                     </div>
                 </div>
             </div>  
-            <div class="col">
+            <div class="col-lg-3">
                 <div class="card text-center mx-auto">
                     <div class="card-header">
-                        <h4>Hours</h4>
+                        <h4>Locate Us</h4>
                     </div>
                     <div class="card-body">
-
+                        <ul id="locate">
+                            <li>Phone: <a href="tel:7158534373">(715) 524-3849</a></li>
+                            <li>Address: 1056 E Green Bay St, Shawano, WI 54166</li>
+                        </ul>
                     </div>
                 </div>
             </div>  
         </div>
     </div>
-
     </main>
 </body>
 </html>

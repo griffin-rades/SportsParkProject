@@ -14,5 +14,41 @@
   <?php
     include_once("nav.php");
   ?>
+  <main>
+    <div class="container-fluid">
+      <div class="row justify-content-center">
+        <div class="col-lg-4">
+          <div class="card text-center mx-auto">
+            <div class="card-header">
+              <h4>GoKarts</h4>
+            </div>
+            <div class="card-body">
+              <img src="images/IMG_2125.JPG" class="img-thumbnail">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="card text-center mx-auto">
+              <div class="card-header">
+                <h4>Mini Golf</h4>
+              </div>
+              <div class="card-body">
+                
+              </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="card text-center mx-auto">
+            <div class="card-header">
+              <h4>Batting Cages</h4>
+            </div>
+            <div class="card-body">
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
 </body>
 </html>
