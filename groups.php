@@ -15,4 +15,20 @@
     include_once("nav.php");
   ?>
 </body>
+<main>
+  <div class="container-fluid">
+    <div class="row justify-content-center">
+      <div class="col-lg-6">
+        <div class="card text-center mx-auto">
+          <div class="card-header">
+            <h4>Group Specials</h4>
+          </div>
+          <div class="card-body">
+            <p>Shawano Sports Park offers group rates for groups of 10+ people. If you plan to come with a large group of people please call ahead and we can arange a group package.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
 </html>
